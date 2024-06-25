@@ -148,6 +148,57 @@ br{
   @media (max-width: 600px){
 
 
+  .services{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 3px dashed #A75D5D;
+    margin-top: 10px;
+    width:90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+  }
+
+  .services p{
+
+    margin-left: 7%;
+    margin-right: 7%;
+    word-spacing:3px;
+
+
+  }
+  .total{
+    margin-bottom: 30px;
+  }
+
+  .education{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 3px dashed #A75D5D;
+    margin-top: 30px;
+    width:90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .education p{
+
+    margin-left: 7%;
+    margin-right: 7%;
+    word-spacing:3px;
+  }
+
+
+    li a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        font-size: 3.5vw;
+        padding: 14px 16px;
+        text-decoration: none;
+        }
+
 
     .main-page{
         margin-top: 100px;
@@ -161,7 +212,7 @@ br{
         font-family: "DM Serif Display", serif;
         font-weight: 500;
         font-style: normal;
-        font-size:4vw;
+        font-size:4.5vw;
         color: #D3756B;
     }
 
@@ -188,6 +239,7 @@ br{
         width: 100px;
         display: block;
         margin-right: 50px;
+      
     
        
     }
