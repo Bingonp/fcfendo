@@ -187,6 +187,38 @@ h3{
 
 /* Adaptable Screens */
 
+
+@media (min-width: 500px){
+
+    .doctor-picture{
+        margin-left: 10%;
+    }
+
+    .forms{
+        margin-right: 10%;
+    }
+
+    .address{
+        float: none;
+        
+    }
+    .address h3{
+        font-size: 3vw;
+    }
+
+    .address h4{
+        font-size: 2.4vw;
+    }
+
+    .location{
+        float: none;
+    }
+    .loc{
+        width: 80%;
+        height: 27vw;
+    }
+}
+
 @media (max-width: 700px){
 
 
