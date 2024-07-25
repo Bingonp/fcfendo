@@ -188,7 +188,7 @@ h3{
 /* Adaptable Screens */
 
 
-@media (min-width: 500px){
+@media (max-width: 500px){
 
     .doctor-picture{
         margin-left: 10%;
